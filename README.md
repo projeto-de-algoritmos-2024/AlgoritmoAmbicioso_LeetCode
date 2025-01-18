@@ -34,6 +34,7 @@ Para usar, deve-se entrar no site do [leetCode](https://leetcode.com/), pesquisa
 
 ## Outros 
 | N° Questão | Descrição questão | Dificuldade |
+| --- | ------- | ---------- |
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) | Hard |
 | --- | --- | --- |
 | --- | --- | --- |
