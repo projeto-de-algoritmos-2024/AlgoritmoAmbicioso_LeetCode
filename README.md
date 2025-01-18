@@ -15,7 +15,9 @@ O nosso é um projeto de questões do juíz online leetCode, que é um ambiente 
 
 ## Screenshots
 
+**Questão 410**
 
+![410](Questao-410/assents/410.png)
 
 
 ## Instalação 
@@ -32,7 +34,7 @@ Para usar, deve-se entrar no site do [leetCode](https://leetcode.com/), pesquisa
 
 ## Outros 
 | N° Questão | Descrição questão | Dificuldade |
-| --- | ------- | ---------- |
+| 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) | Hard |
 |  |  |  |
 |  ||      |
 | |  | |
