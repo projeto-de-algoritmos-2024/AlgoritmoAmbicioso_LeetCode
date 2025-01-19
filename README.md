@@ -23,6 +23,11 @@ O nosso é um projeto de questões do juíz online leetCode, que é um ambiente 
 
 ![435](Questao-435/assents/435.png)
 
+**Questão 435**
+
+![632](Questao-632/assents/632.png)
+
+
 ## Instalação 
 **Linguagens**: 
 - C<br>
@@ -40,5 +45,5 @@ Para usar, deve-se entrar no site do [leetCode](https://leetcode.com/), pesquisa
 | --- | ------- | ---------- |
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) | Hard |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | Medium |
-| --- | --- | --- |
+| 632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/) | Hard |
 | --- | --- | --- |
