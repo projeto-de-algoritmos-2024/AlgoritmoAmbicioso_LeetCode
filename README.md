@@ -19,6 +19,9 @@ O nosso é um projeto de questões do juíz online leetCode, que é um ambiente 
 
 ![410](Questao-410/assents/410.png)
 
+**Questão 435**
+
+![435](Questao-435/assents/435.png)
 
 ## Instalação 
 **Linguagens**: 
@@ -36,6 +39,6 @@ Para usar, deve-se entrar no site do [leetCode](https://leetcode.com/), pesquisa
 | N° Questão | Descrição questão | Dificuldade |
 | --- | ------- | ---------- |
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) | Hard |
-| --- | --- | --- |
+| 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | Medium |
 | --- | --- | --- |
 | --- | --- | --- |
