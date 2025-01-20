@@ -38,10 +38,11 @@ O nosso é um projeto de questões do juíz online leetCode, que é um ambiente 
 
 
 ## Uso 
-Para usar, deve-se entrar no site do [leetCode](https://leetcode.com/), pesquisar a questão na aba de perguntas e copiar a solução indica e testar no local apropriado no site.
+Para usar, deve-se entrar no site do [leetCode](https://leetcode.com/), pesquisar a questão na aba de perguntas e copiar a solução indicada e testar no local apropriado no site.
 
 ## Vídeo 
 
+- [Entrega 4 - Parte 1](https://youtu.be/BI8ouv2YmYU)
 
 ## Outros 
 | N° Questão | Descrição questão | Dificuldade |
