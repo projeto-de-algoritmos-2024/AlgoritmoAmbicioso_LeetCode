@@ -43,6 +43,7 @@ Para usar, deve-se entrar no site do [leetCode](https://leetcode.com/), pesquisa
 ## Vídeo 
 
 - [Entrega 4 - Parte 1](https://youtu.be/BI8ouv2YmYU)
+- [Entrega 4 - Parte 2](https://youtu.be/tEgn-yBO8tg)
 
 ## Outros 
 | N° Questão | Descrição questão | Dificuldade |
@@ -51,4 +52,3 @@ Para usar, deve-se entrar no site do [leetCode](https://leetcode.com/), pesquisa
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | Medium |
 | 632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/) | Hard |
 | 517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/description/) | Hard |
-| --- | --- | --- |
